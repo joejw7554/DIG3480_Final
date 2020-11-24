@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 7432f115d29937c49975f2a91287698a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - conditionaltext: {fileID: 6851793672920857174, guid: 2cbb53b6dfad4d440b53da298f737a29,
+      type: 3}
+  - scoretext: {fileID: 3488790604678795123, guid: 9aaba28ed739433499d8825d8b539bd4,
+      type: 3}
+  - cogstext: {fileID: 5748257713328731063, guid: 77262c7be0afd7d4a961b67f4879141d,
+      type: 3}
+  - projectilePrefab: {fileID: 8549491941870667525, guid: aae92ec038e563c41a0eb1c6f9b51638,
+      type: 3}
+  - HealthDecreasePrefab: {fileID: 3344847847643516133, guid: f50034bbba8d56a42a9e6a52faa517a8,
+      type: 3}
+  - HealthIncreasePrefab: {fileID: 4269973262945957532, guid: a8a460cfdebbd6d498154cef9789b409,
+      type: 3}
+  - backgroundmusic: {fileID: 8300000, guid: e406c04157c663a43b859646b7ad3c2a, type: 3}
+  - victorymusic: {fileID: 8300000, guid: d62e846a183932247acc7893f71a0f88, type: 3}
+  - lossmusic: {fileID: 8300000, guid: b6a1b08c55c680142bf1dfff9927ae55, type: 3}
+  - throwSound: {fileID: 8300000, guid: b2edfd40873655249ba0e01a5cf705be, type: 3}
+  - hitSound: {fileID: 8300000, guid: 9b1bb1f450b7d444fa4a8019d13519a7, type: 3}
+  - musicsource: {fileID: 5946720930532873454, guid: 00dec72bd235ba9439f1a1b32006ce80,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
