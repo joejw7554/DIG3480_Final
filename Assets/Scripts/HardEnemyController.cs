@@ -23,6 +23,8 @@ public class HardEnemyController : MonoBehaviour
     public AudioClip playerhitsound;
     public AudioClip fixedsound;
     AudioSource audioSource;
+
+    public GameObject lootdrop;
     
     void Start()
     {
@@ -101,7 +103,6 @@ public class HardEnemyController : MonoBehaviour
         if (player!=null)
         {
             player.ChangeHealth(-2);
-            PlaySound(playerhitsound);
         }
     }
 
@@ -111,8 +112,11 @@ public class HardEnemyController : MonoBehaviour
         Rigidbody2D.simulated= false;
         animator.SetTrigger("Fixed");
         rubyController.ChangeScore(1);
+
+
         smokeEffect.Stop();
         PlaySound(fixedsound);
+        Instantiate(lootdrop,transform.position, Quaternion.identity);
     }
 
     public void PlaySound(AudioClip clip)

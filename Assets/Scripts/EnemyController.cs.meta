@@ -3,7 +3,12 @@ guid: 79b8ade70c18aef4db7c4b95dd9063a3
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - smokeEffect: {instanceID: 0}
+  - playerhitsound: {instanceID: 0}
+  - fixedsound: {instanceID: 0}
+  - lootdrop: {fileID: 8594135686977304552, guid: 19658cf71aed91346a29c3af4f7c9cfc,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

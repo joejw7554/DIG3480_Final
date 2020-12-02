@@ -4,6 +4,8 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
+  - cointext: {fileID: 1359842752867377479, guid: 7cb38bbbf96c4294ca4fd54a53d7daaf,
+      type: 3}
   - conditionaltext: {fileID: 6851793672920857174, guid: 2cbb53b6dfad4d440b53da298f737a29,
       type: 3}
   - scoretext: {fileID: 3488790604678795123, guid: 9aaba28ed739433499d8825d8b539bd4,
@@ -16,13 +18,20 @@ MonoImporter:
       type: 3}
   - HealthIncreasePrefab: {fileID: 4269973262945957532, guid: a8a460cfdebbd6d498154cef9789b409,
       type: 3}
+  - powerupsound: {fileID: 8300000, guid: e1179163890512545a6b67e75d7f4ecf, type: 3}
+  - missioncomplete: {fileID: 8300000, guid: 4ab27459855e19140ae28e7db4a9c24f, type: 3}
+  - npcinteraction: {fileID: 8300000, guid: 52edcbf9bae01c642ac00e1367d7cdb3, type: 3}
   - backgroundmusic: {fileID: 8300000, guid: e406c04157c663a43b859646b7ad3c2a, type: 3}
-  - victorymusic: {fileID: 8300000, guid: d62e846a183932247acc7893f71a0f88, type: 3}
+  - victorymusic: {fileID: 8300000, guid: 2deacd0c4fa4df4409bd8d9db777f517, type: 3}
   - lossmusic: {fileID: 8300000, guid: b6a1b08c55c680142bf1dfff9927ae55, type: 3}
-  - throwSound: {fileID: 8300000, guid: b2edfd40873655249ba0e01a5cf705be, type: 3}
-  - hitSound: {fileID: 8300000, guid: 9b1bb1f450b7d444fa4a8019d13519a7, type: 3}
+  - cogpickupsoundeffect: {fileID: 8300000, guid: 66d77dde46ca02c4f8347ffb9331b509,
+      type: 3}
+  - coinpickupsoundeffect: {fileID: 8300000, guid: 375bef96c658aee449e228f5111914b3,
+      type: 3}
   - musicsource: {fileID: 5946720930532873454, guid: 00dec72bd235ba9439f1a1b32006ce80,
       type: 3}
+  - throwSound: {fileID: 8300000, guid: b2edfd40873655249ba0e01a5cf705be, type: 3}
+  - hitSound: {fileID: 8300000, guid: 9b1bb1f450b7d444fa4a8019d13519a7, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

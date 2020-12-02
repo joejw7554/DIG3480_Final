@@ -6,11 +6,16 @@ public class NonPlayerCharacter : MonoBehaviour
 {
     public float displayTime=4.0f;
     public GameObject dialogBox;
+    public GameObject dialogBox2;
+    public GameObject dialogBox3;
     float timerDisplay;
     // Start is called before the first frame update
     void Start()
     {
         dialogBox.SetActive(false);
+        timerDisplay=-1.0f;
+
+        dialogBox2.SetActive(false);//
         timerDisplay=-1.0f;
     }
 
@@ -23,6 +28,7 @@ public class NonPlayerCharacter : MonoBehaviour
         if (timerDisplay< 0)
          {
             dialogBox.SetActive(false);
+            dialogBox2.SetActive(false);//
          }
         }
     }
@@ -31,5 +37,16 @@ public class NonPlayerCharacter : MonoBehaviour
     {
         timerDisplay= displayTime;
         dialogBox.SetActive(true);
+    }
+
+    public void DisplayDialog2()//
+    {
+        timerDisplay= displayTime;//
+        dialogBox2.SetActive(true);//
+    }
+    public void DisplayDialog3()
+    {
+        dialogBox3.SetActive(true);
+        
     }
 }

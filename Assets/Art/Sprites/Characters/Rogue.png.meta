@@ -1,0 +1,3064 @@
+fileFormatVersion: 2
+guid: dd13a116d7eb4a345bc1f70484d04462
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8116767821950976390
+    second: rogue spritesheet calciumtrice (1)_0
+  - first:
+      213: -7063630070742249609
+    second: rogue spritesheet calciumtrice (1)_1
+  - first:
+      213: 3521478084878621919
+    second: rogue spritesheet calciumtrice (1)_2
+  - first:
+      213: -2249876405774735854
+    second: rogue spritesheet calciumtrice (1)_3
+  - first:
+      213: -6271093395469970380
+    second: rogue spritesheet calciumtrice (1)_4
+  - first:
+      213: 6144164670018200405
+    second: rogue spritesheet calciumtrice (1)_5
+  - first:
+      213: 7200235974453904301
+    second: rogue spritesheet calciumtrice (1)_6
+  - first:
+      213: 9151288607560866003
+    second: rogue spritesheet calciumtrice (1)_7
+  - first:
+      213: -825451243709296509
+    second: rogue spritesheet calciumtrice (1)_8
+  - first:
+      213: 7785435740580541330
+    second: rogue spritesheet calciumtrice (1)_9
+  - first:
+      213: 458177437854367348
+    second: rogue spritesheet calciumtrice (1)_10
+  - first:
+      213: -3202308167454519664
+    second: rogue spritesheet calciumtrice (1)_11
+  - first:
+      213: -9222371491756782953
+    second: rogue spritesheet calciumtrice (1)_12
+  - first:
+      213: -3771615656100413945
+    second: rogue spritesheet calciumtrice (1)_13
+  - first:
+      213: 5277301640041686262
+    second: rogue spritesheet calciumtrice (1)_14
+  - first:
+      213: -175773797056533161
+    second: rogue spritesheet calciumtrice (1)_15
+  - first:
+      213: 5111118436244499746
+    second: rogue spritesheet calciumtrice (1)_16
+  - first:
+      213: 4806602360525551678
+    second: rogue spritesheet calciumtrice (1)_17
+  - first:
+      213: 2524447199223866214
+    second: rogue spritesheet calciumtrice (1)_18
+  - first:
+      213: -660647797842305998
+    second: rogue spritesheet calciumtrice (1)_19
+  - first:
+      213: 6012501552811961903
+    second: rogue spritesheet calciumtrice (1)_20
+  - first:
+      213: -361803614520704785
+    second: rogue spritesheet calciumtrice (1)_21
+  - first:
+      213: -5434859647963221407
+    second: rogue spritesheet calciumtrice (1)_22
+  - first:
+      213: 566309371659232196
+    second: rogue spritesheet calciumtrice (1)_23
+  - first:
+      213: 1372005134489962744
+    second: rogue spritesheet calciumtrice (1)_24
+  - first:
+      213: -4949523741288539805
+    second: rogue spritesheet calciumtrice (1)_25
+  - first:
+      213: -123282217704423429
+    second: rogue spritesheet calciumtrice (1)_26
+  - first:
+      213: 2021561652040807036
+    second: rogue spritesheet calciumtrice (1)_27
+  - first:
+      213: -8153674338388565685
+    second: rogue spritesheet calciumtrice (1)_28
+  - first:
+      213: -4930191078715044459
+    second: rogue spritesheet calciumtrice (1)_29
+  - first:
+      213: 7139628517623337610
+    second: rogue spritesheet calciumtrice (1)_30
+  - first:
+      213: 8735982187887084926
+    second: rogue spritesheet calciumtrice (1)_31
+  - first:
+      213: 4248983069897138429
+    second: rogue spritesheet calciumtrice (1)_32
+  - first:
+      213: 1638938774505878322
+    second: rogue spritesheet calciumtrice (1)_33
+  - first:
+      213: 4058792941809616086
+    second: rogue spritesheet calciumtrice (1)_34
+  - first:
+      213: 1907115440781988174
+    second: rogue spritesheet calciumtrice (1)_35
+  - first:
+      213: 3015934850109948937
+    second: rogue spritesheet calciumtrice (1)_36
+  - first:
+      213: -6719818152079833686
+    second: rogue spritesheet calciumtrice (1)_37
+  - first:
+      213: 6316099687464521517
+    second: rogue spritesheet calciumtrice (1)_38
+  - first:
+      213: 7278666175971247445
+    second: rogue spritesheet calciumtrice (1)_39
+  - first:
+      213: -1779669776053907688
+    second: rogue spritesheet calciumtrice (1)_40
+  - first:
+      213: -1919994643542224821
+    second: rogue spritesheet calciumtrice (1)_41
+  - first:
+      213: -1324939769283420516
+    second: rogue spritesheet calciumtrice (1)_42
+  - first:
+      213: 2120461391099989514
+    second: rogue spritesheet calciumtrice (1)_43
+  - first:
+      213: 5418163009577161210
+    second: rogue spritesheet calciumtrice (1)_44
+  - first:
+      213: 2920600450455283502
+    second: rogue spritesheet calciumtrice (1)_45
+  - first:
+      213: 6353831030980186702
+    second: rogue spritesheet calciumtrice (1)_46
+  - first:
+      213: 7288678747968253066
+    second: rogue spritesheet calciumtrice (1)_47
+  - first:
+      213: -3790430101601357024
+    second: rogue spritesheet calciumtrice (1)_48
+  - first:
+      213: 7591537213366873921
+    second: rogue spritesheet calciumtrice (1)_49
+  - first:
+      213: -4513611937367209834
+    second: rogue spritesheet calciumtrice (1)_50
+  - first:
+      213: 6050041478212912849
+    second: rogue spritesheet calciumtrice (1)_51
+  - first:
+      213: -7252656592059629989
+    second: rogue spritesheet calciumtrice (1)_52
+  - first:
+      213: -633351209828424251
+    second: rogue spritesheet calciumtrice (1)_53
+  - first:
+      213: 1695688831818981229
+    second: rogue spritesheet calciumtrice (1)_54
+  - first:
+      213: 2149099485580072632
+    second: rogue spritesheet calciumtrice (1)_55
+  - first:
+      213: -8992482221535804874
+    second: rogue spritesheet calciumtrice (1)_56
+  - first:
+      213: -7491592238533335343
+    second: rogue spritesheet calciumtrice (1)_57
+  - first:
+      213: -9007681088844149595
+    second: rogue spritesheet calciumtrice (1)_58
+  - first:
+      213: 2989891563069236950
+    second: rogue spritesheet calciumtrice (1)_59
+  - first:
+      213: -3313882855743616459
+    second: rogue spritesheet calciumtrice (1)_60
+  - first:
+      213: -6182252859264401484
+    second: rogue spritesheet calciumtrice (1)_61
+  - first:
+      213: -720312078520287668
+    second: rogue spritesheet calciumtrice (1)_62
+  - first:
+      213: 1844960868140163781
+    second: rogue spritesheet calciumtrice (1)_63
+  - first:
+      213: 6514029234846917426
+    second: rogue spritesheet calciumtrice (1)_64
+  - first:
+      213: 8185828041079772449
+    second: rogue spritesheet calciumtrice (1)_65
+  - first:
+      213: 208759162687459996
+    second: rogue spritesheet calciumtrice (1)_66
+  - first:
+      213: -1754676603467123652
+    second: rogue spritesheet calciumtrice (1)_67
+  - first:
+      213: 2922027285992680734
+    second: rogue spritesheet calciumtrice (1)_68
+  - first:
+      213: -3061205501722033943
+    second: rogue spritesheet calciumtrice (1)_69
+  - first:
+      213: -4263966024555356212
+    second: rogue spritesheet calciumtrice (1)_70
+  - first:
+      213: 8070213774918454470
+    second: rogue spritesheet calciumtrice (1)_71
+  - first:
+      213: -7475694500696472151
+    second: rogue spritesheet calciumtrice (1)_72
+  - first:
+      213: -4378961952723087485
+    second: rogue spritesheet calciumtrice (1)_73
+  - first:
+      213: -4676016697087927782
+    second: rogue spritesheet calciumtrice (1)_74
+  - first:
+      213: -4432306056199364197
+    second: rogue spritesheet calciumtrice (1)_75
+  - first:
+      213: 499101254437052376
+    second: rogue spritesheet calciumtrice (1)_76
+  - first:
+      213: 2003700575942839000
+    second: rogue spritesheet calciumtrice (1)_77
+  - first:
+      213: 7925844065788970903
+    second: rogue spritesheet calciumtrice (1)_78
+  - first:
+      213: -7352747622789326504
+    second: rogue spritesheet calciumtrice (1)_79
+  - first:
+      213: 1351628413363340647
+    second: rogue spritesheet calciumtrice (1)_80
+  - first:
+      213: 3166862062315987655
+    second: rogue spritesheet calciumtrice (1)_81
+  - first:
+      213: 504516884681434538
+    second: rogue spritesheet calciumtrice (1)_82
+  - first:
+      213: 5081081162980169933
+    second: rogue spritesheet calciumtrice (1)_83
+  - first:
+      213: -7908593236624926215
+    second: rogue spritesheet calciumtrice (1)_84
+  - first:
+      213: 8651417945771703842
+    second: rogue spritesheet calciumtrice (1)_85
+  - first:
+      213: -5300366909494438731
+    second: rogue spritesheet calciumtrice (1)_86
+  - first:
+      213: -4363814246889124423
+    second: rogue spritesheet calciumtrice (1)_87
+  - first:
+      213: 3500391035518612140
+    second: rogue spritesheet calciumtrice (1)_88
+  - first:
+      213: 3994311812775006388
+    second: rogue spritesheet calciumtrice (1)_89
+  - first:
+      213: -3013874289449808714
+    second: rogue spritesheet calciumtrice (1)_90
+  - first:
+      213: -9203468300088038543
+    second: rogue spritesheet calciumtrice (1)_91
+  - first:
+      213: 3157275102927738377
+    second: rogue spritesheet calciumtrice (1)_92
+  - first:
+      213: -5026644323562167434
+    second: rogue spritesheet calciumtrice (1)_93
+  - first:
+      213: 5281720937382259990
+    second: rogue spritesheet calciumtrice (1)_94
+  - first:
+      213: 9020344233769779602
+    second: rogue spritesheet calciumtrice (1)_95
+  - first:
+      213: 7068346762098439272
+    second: rogue spritesheet calciumtrice (1)_96
+  - first:
+      213: -295364254556735847
+    second: rogue spritesheet calciumtrice (1)_97
+  - first:
+      213: 2131349938397818062
+    second: rogue spritesheet calciumtrice (1)_98
+  - first:
+      213: -6053265612867761408
+    second: rogue spritesheet calciumtrice (1)_99
+  - first:
+      213: 4979363154352999712
+    second: Rogue_0
+  - first:
+      213: 7921502813010559805
+    second: Rogue_1
+  - first:
+      213: 500092995896763561
+    second: Rogue_2
+  - first:
+      213: 7521268726740968743
+    second: Rogue_3
+  - first:
+      213: -8450313840416949542
+    second: Rogue_4
+  - first:
+      213: 7652387563259126412
+    second: Rogue_5
+  - first:
+      213: 747537166349585552
+    second: Rogue_6
+  - first:
+      213: 4904535553711869849
+    second: Rogue_7
+  - first:
+      213: 807448920738025961
+    second: Rogue_8
+  - first:
+      213: 7173849240055794619
+    second: Rogue_9
+  - first:
+      213: -6278177606702991857
+    second: Rogue_10
+  - first:
+      213: -7975333021530239752
+    second: Rogue_11
+  - first:
+      213: 1994531281486962280
+    second: Rogue_12
+  - first:
+      213: 668791810751214081
+    second: Rogue_13
+  - first:
+      213: 2421803570938959372
+    second: Rogue_14
+  - first:
+      213: 5730733498990671059
+    second: Rogue_15
+  - first:
+      213: -4531169583047112179
+    second: Rogue_16
+  - first:
+      213: 7680561156586893442
+    second: Rogue_17
+  - first:
+      213: -3886790462070318021
+    second: Rogue_18
+  - first:
+      213: 1597532120673366221
+    second: Rogue_19
+  - first:
+      213: -6638592641177144088
+    second: Rogue_20
+  - first:
+      213: -2797981305646618265
+    second: Rogue_21
+  - first:
+      213: 2463218918566940445
+    second: Rogue_22
+  - first:
+      213: 5005909135789015534
+    second: Rogue_23
+  - first:
+      213: 5986919574264433754
+    second: Rogue_24
+  - first:
+      213: 4382994433502598388
+    second: Rogue_25
+  - first:
+      213: 3240065001725926501
+    second: Rogue_26
+  - first:
+      213: 5537713382534812632
+    second: Rogue_27
+  - first:
+      213: 8004587323826319065
+    second: Rogue_28
+  - first:
+      213: 119297391374881008
+    second: Rogue_29
+  - first:
+      213: 503950718708004982
+    second: Rogue_30
+  - first:
+      213: 4595249174636998647
+    second: Rogue_31
+  - first:
+      213: -3292030621323078197
+    second: Rogue_32
+  - first:
+      213: -2136168036107386349
+    second: Rogue_33
+  - first:
+      213: 710092778565068670
+    second: Rogue_34
+  - first:
+      213: -481885073046568347
+    second: Rogue_35
+  - first:
+      213: -1953979092185765896
+    second: Rogue_36
+  - first:
+      213: -2182466473366058320
+    second: Rogue_37
+  - first:
+      213: 6746760739605462825
+    second: Rogue_38
+  - first:
+      213: -137506050308853739
+    second: Rogue_39
+  - first:
+      213: 2419962495090222557
+    second: Rogue_40
+  - first:
+      213: -3644441841831859451
+    second: Rogue_41
+  - first:
+      213: -1676175015942042067
+    second: Rogue_42
+  - first:
+      213: -1508685177652777518
+    second: Rogue_43
+  - first:
+      213: -824844571744912134
+    second: Rogue_44
+  - first:
+      213: -4178795942286976970
+    second: Rogue_45
+  - first:
+      213: -5153320188895550283
+    second: Rogue_46
+  - first:
+      213: 1674069755327442884
+    second: Rogue_47
+  - first:
+      213: 7542497094475406524
+    second: Rogue_48
+  - first:
+      213: -3133948397740585826
+    second: Rogue_49
+  - first:
+      213: -4355743711779866826
+    second: Rogue_50
+  - first:
+      213: 6154089744358761167
+    second: Rogue_51
+  - first:
+      213: -6956435703193737503
+    second: Rogue_52
+  - first:
+      213: 7506403517577394268
+    second: Rogue_53
+  - first:
+      213: 1293205495868385371
+    second: Rogue_54
+  - first:
+      213: 1348448768968391152
+    second: Rogue_55
+  - first:
+      213: 1238288987267572228
+    second: Rogue_56
+  - first:
+      213: 5043432002291660718
+    second: Rogue_57
+  - first:
+      213: 2349438934546912924
+    second: Rogue_58
+  - first:
+      213: -5174554946205403217
+    second: Rogue_59
+  - first:
+      213: 7692565819344976565
+    second: Rogue_60
+  - first:
+      213: -6330905760565215312
+    second: Rogue_61
+  - first:
+      213: -7303622555602192819
+    second: Rogue_62
+  - first:
+      213: 6148763388015799589
+    second: Rogue_63
+  - first:
+      213: -3937952535115669889
+    second: Rogue_64
+  - first:
+      213: 9179953202799248627
+    second: Rogue_65
+  - first:
+      213: 8797246089512868179
+    second: Rogue_66
+  - first:
+      213: 8129530814234466489
+    second: Rogue_67
+  - first:
+      213: -501083678524807616
+    second: Rogue_68
+  - first:
+      213: 3863815117227663417
+    second: Rogue_69
+  - first:
+      213: -6386849610116239485
+    second: Rogue_70
+  - first:
+      213: -1999489533153716618
+    second: Rogue_71
+  - first:
+      213: 6867337030447001917
+    second: Rogue_72
+  - first:
+      213: 2511758222868878829
+    second: Rogue_73
+  - first:
+      213: 7165209492366315770
+    second: Rogue_74
+  - first:
+      213: -8722856626366207280
+    second: Rogue_75
+  - first:
+      213: -6191385088082429537
+    second: Rogue_76
+  - first:
+      213: 1150444295995285487
+    second: Rogue_77
+  - first:
+      213: 6768780101789855980
+    second: Rogue_78
+  - first:
+      213: -1152384612364105427
+    second: Rogue_79
+  - first:
+      213: 2609105705160327845
+    second: Rogue_80
+  - first:
+      213: 763774535867251151
+    second: Rogue_81
+  - first:
+      213: -6085445249574198959
+    second: Rogue_82
+  - first:
+      213: 5604760199504236530
+    second: Rogue_83
+  - first:
+      213: -2516390765755911138
+    second: Rogue_84
+  - first:
+      213: 6940158743389614225
+    second: Rogue_85
+  - first:
+      213: -7631390592776477419
+    second: Rogue_86
+  - first:
+      213: 4543065930852107357
+    second: Rogue_87
+  - first:
+      213: -1546049871528237304
+    second: Rogue_88
+  - first:
+      213: 2449765691409905098
+    second: Rogue_89
+  - first:
+      213: 546748309892022745
+    second: Rogue_90
+  - first:
+      213: 758609176633440547
+    second: Rogue_91
+  - first:
+      213: 5120977412517133802
+    second: Rogue_92
+  - first:
+      213: -7060602227371268650
+    second: Rogue_93
+  - first:
+      213: 2317044233419754
+    second: Rogue_94
+  - first:
+      213: 4746839546442482300
+    second: Rogue_95
+  - first:
+      213: 7249065376316303170
+    second: Rogue_96
+  - first:
+      213: 4859876893157621930
+    second: Rogue_97
+  - first:
+      213: 8470882365921936165
+    second: Rogue_98
+  - first:
+      213: 6041268341862372081
+    second: Rogue_99
+  - first:
+      213: -7576584471810369975
+    second: Rogue_0
+  - first:
+      213: -7137130550609608343
+    second: Rogue_1
+  - first:
+      213: 1849549616114158743
+    second: Rogue_2
+  - first:
+      213: -7024581958957809849
+    second: Rogue_3
+  - first:
+      213: -76282091691122663
+    second: Rogue_4
+  - first:
+      213: -3159017400267073479
+    second: Rogue_5
+  - first:
+      213: 5933019439332205620
+    second: Rogue_6
+  - first:
+      213: -6709662663471370922
+    second: Rogue_7
+  - first:
+      213: -176083581172929023
+    second: Rogue_8
+  - first:
+      213: -3472019459386994380
+    second: Rogue_9
+  - first:
+      213: -7730043156051049119
+    second: Rogue_10
+  - first:
+      213: -1995644836148071936
+    second: Rogue_11
+  - first:
+      213: -7391418798665849764
+    second: Rogue_12
+  - first:
+      213: 398983454078105407
+    second: Rogue_13
+  - first:
+      213: -3444759238513347332
+    second: Rogue_14
+  - first:
+      213: 5472086882371839066
+    second: Rogue_15
+  - first:
+      213: 2277537009342328874
+    second: Rogue_16
+  - first:
+      213: -7879912137717859831
+    second: Rogue_17
+  - first:
+      213: 7938857091757599042
+    second: Rogue_18
+  - first:
+      213: 4003639878934070524
+    second: Rogue_19
+  - first:
+      213: -1186017043247194289
+    second: Rogue_20
+  - first:
+      213: 3990492008259588973
+    second: Rogue_21
+  - first:
+      213: 7665402655874040176
+    second: Rogue_22
+  - first:
+      213: -8897214995842460446
+    second: Rogue_23
+  - first:
+      213: -1974970705421073941
+    second: Rogue_24
+  - first:
+      213: -7086196315788727381
+    second: Rogue_25
+  - first:
+      213: 7224361154362269134
+    second: Rogue_26
+  - first:
+      213: -4081290173137264582
+    second: Rogue_27
+  - first:
+      213: 4012544413348317112
+    second: Rogue_28
+  - first:
+      213: -1005214063959514486
+    second: Rogue_29
+  - first:
+      213: 8729803420219591188
+    second: Rogue_30
+  - first:
+      213: 4983907271645265100
+    second: Rogue_31
+  - first:
+      213: -2586121164392249527
+    second: Rogue_32
+  - first:
+      213: -7144865677447173339
+    second: Rogue_33
+  - first:
+      213: -8689168972367206703
+    second: Rogue_34
+  - first:
+      213: -2194589181469130862
+    second: Rogue_35
+  - first:
+      213: 2775079472179138835
+    second: Rogue_36
+  - first:
+      213: -1847910001231503585
+    second: Rogue_37
+  - first:
+      213: 9207440874209118759
+    second: Rogue_38
+  - first:
+      213: -72469609243977811
+    second: Rogue_39
+  - first:
+      213: 6466171772179032858
+    second: Rogue_40
+  - first:
+      213: -8268946765903846082
+    second: Rogue_41
+  - first:
+      213: 4189073123553417444
+    second: Rogue_42
+  - first:
+      213: -8178118452420483714
+    second: Rogue_43
+  - first:
+      213: -1374217015774021568
+    second: Rogue_44
+  - first:
+      213: -6033908026600989734
+    second: Rogue_45
+  - first:
+      213: 8008264568748733198
+    second: Rogue_46
+  - first:
+      213: 2065622128311418386
+    second: Rogue_47
+  - first:
+      213: 9186111816144055478
+    second: Rogue_48
+  - first:
+      213: -2153272519000214346
+    second: Rogue_49
+  - first:
+      213: -3858802207248080199
+    second: Rogue_50
+  - first:
+      213: 7585532532496182611
+    second: Rogue_51
+  - first:
+      213: -5580197513914938626
+    second: Rogue_52
+  - first:
+      213: -7369682013761753833
+    second: Rogue_53
+  - first:
+      213: 4428486240870322973
+    second: Rogue_54
+  - first:
+      213: -6687474600690269391
+    second: Rogue_55
+  - first:
+      213: -2773952755365659056
+    second: Rogue_56
+  - first:
+      213: -2971842142218451690
+    second: Rogue_57
+  - first:
+      213: -5484046940215036816
+    second: Rogue_58
+  - first:
+      213: 7597785199246283936
+    second: Rogue_59
+  - first:
+      213: 8613588468527989713
+    second: Rogue_60
+  - first:
+      213: 4912901284630573962
+    second: Rogue_61
+  - first:
+      213: -8588035174733039740
+    second: Rogue_62
+  - first:
+      213: 4115635770006412716
+    second: Rogue_63
+  - first:
+      213: -5040301815189595835
+    second: Rogue_64
+  - first:
+      213: 7640070452529756018
+    second: Rogue_65
+  - first:
+      213: 1056502465574004742
+    second: Rogue_66
+  - first:
+      213: 6061131912624119427
+    second: Rogue_67
+  - first:
+      213: -4745171871620322264
+    second: Rogue_68
+  - first:
+      213: 1839062779938873616
+    second: Rogue_69
+  - first:
+      213: 8555174959408203792
+    second: Rogue_70
+  - first:
+      213: -5691254183893858508
+    second: Rogue_71
+  - first:
+      213: -5714809164153372195
+    second: Rogue_72
+  - first:
+      213: -3844530194770582183
+    second: Rogue_73
+  - first:
+      213: 610136006996987289
+    second: Rogue_74
+  - first:
+      213: 4607522277128678223
+    second: Rogue_75
+  - first:
+      213: 3707485930620191370
+    second: Rogue_76
+  - first:
+      213: 1231499414148609397
+    second: Rogue_77
+  - first:
+      213: 8513212244271659473
+    second: Rogue_78
+  - first:
+      213: -197342836150646038
+    second: Rogue_79
+  - first:
+      213: 3282967346984836983
+    second: Rogue_80
+  - first:
+      213: 5181422167270616159
+    second: Rogue_81
+  - first:
+      213: -5314378354559732083
+    second: Rogue_82
+  - first:
+      213: 555901628727727668
+    second: Rogue_83
+  - first:
+      213: 7292867475395781109
+    second: Rogue_84
+  - first:
+      213: -6891054042402214999
+    second: Rogue_85
+  - first:
+      213: -5423731305323802219
+    second: Rogue_86
+  - first:
+      213: 7446057087425024047
+    second: Rogue_87
+  - first:
+      213: -211882872711331282
+    second: Rogue_88
+  - first:
+      213: -7418795882732836090
+    second: Rogue_89
+  - first:
+      213: 8070393590677257212
+    second: Rogue_90
+  - first:
+      213: -7739403128576117710
+    second: Rogue_91
+  - first:
+      213: -3063076616334910659
+    second: Rogue_92
+  - first:
+      213: 5249812131390225053
+    second: Rogue_93
+  - first:
+      213: 4208724836865941893
+    second: Rogue_94
+  - first:
+      213: -6177844086227185551
+    second: Rogue_95
+  - first:
+      213: 1580809033614414532
+    second: Rogue_96
+  - first:
+      213: -2267143538043053693
+    second: Rogue_97
+  - first:
+      213: -5746302585876889441
+    second: Rogue_98
+  - first:
+      213: 4017358975186799728
+    second: Rogue_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rogue_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946900bb0909ad690800000000000000
+      internalID: -7576584471810369975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961835f0491d3fc90800000000000000
+      internalID: -7137130550609608343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc1f6939beaa910800000000000000
+      internalID: 1849549616114158743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb3b81deba38e90800000000000000
+      internalID: -7024581958957809849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e60e77ddf0fef0800000000000000
+      internalID: -76282091691122663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9389dc1696ae824d0800000000000000
+      internalID: -3159017400267073479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43422eedeb1565250800000000000000
+      internalID: 5933019439332205620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d661d5b5d72e2a0800000000000000
+      internalID: -6709662663471370922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea8657aec6e8df0800000000000000
+      internalID: -176083581172929023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 288
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319efd72b8e0dfc0800000000000000
+      internalID: -3472019459386994380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165432184be59b490800000000000000
+      internalID: -7730043156051049119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023d8b489b0e44e0800000000000000
+      internalID: -1995644836148071936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 225
+        width: 16
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a06793c76c6990800000000000000
+      internalID: -7391418798665849764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 256
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37759b6659798500800000000000000
+      internalID: 398983454078105407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 256
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4baa349b1c130d0800000000000000
+      internalID: -3444759238513347332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 256
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5429d3f602c0fb40800000000000000
+      internalID: 5472086882371839066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 256
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20b7a4d7df6b9f10800000000000000
+      internalID: 2277537009342328874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 225
+        width: 24
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ab90a09ade4a290800000000000000
+      internalID: -7879912137717859831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2496dcc867c7c2e60800000000000000
+      internalID: 7938857091757599042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 256
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf40478f149cf8730800000000000000
+      internalID: 4003639878934070524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 224
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f11bf68cb6a8fe0800000000000000
+      internalID: -1186017043247194289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631957c653116730800000000000000
+      internalID: 3990492008259588973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07145bb3a1bf06a60800000000000000
+      internalID: 7665402655874040176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4188ac91eb68480800000000000000
+      internalID: -8897214995842460446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be103957b9e7794e0800000000000000
+      internalID: -1974970705421073941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2bbcbef5c8ad90800000000000000
+      internalID: -7086196315788727381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd4ee8136124460800000000000000
+      internalID: 7224361154362269134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 224
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a306cdc06385c57c0800000000000000
+      internalID: -4081290173137264582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ca1372eb6fa730800000000000000
+      internalID: 4012544413348317112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 192
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82677a7223cc02f0800000000000000
+      internalID: -1005214063959514486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41acd2d45fd762970800000000000000
+      internalID: 8729803420219591188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 192
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf6e7f1456a2540800000000000000
+      internalID: 4983907271645265100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c74ab0804c1cd0800000000000000
+      internalID: -2586121164392249527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 192
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b61ef758658dc90800000000000000
+      internalID: -7144865677447173339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6e4b85bded96780800000000000000
+      internalID: -8689168972367206703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 192
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ffd9254c04b81e0800000000000000
+      internalID: -2194589181469130862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 192
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31157b2b310138620800000000000000
+      internalID: 2775079472179138835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 192
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f54bff4a7ea56e0800000000000000
+      internalID: -1847910001231503585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 160
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a85a521b667cf70800000000000000
+      internalID: 9207440874209118759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 160
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7500c36498efef0800000000000000
+      internalID: -72469609243977811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ba361b7f47cb950800000000000000
+      internalID: 6466171772179032858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35afa72abcce3d80800000000000000
+      internalID: -8268946765903846082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 160
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8998bafc3922a30800000000000000
+      internalID: 4189073123553417444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 160
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e868d89c718e80800000000000000
+      internalID: -8178118452420483714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048fd72b7eccdece0800000000000000
+      internalID: -1374217015774021568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 160
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbd11b6e90434ca0800000000000000
+      internalID: -6033908026600989734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 160
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e037d971232132f60800000000000000
+      internalID: 8008264568748733198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_47
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 160
+        width: 22
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e303ea1609aac10800000000000000
+      internalID: 2065622128311418386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bce844d600ab7f70800000000000000
+      internalID: 9186111816144055478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b1607d0a0e12e0800000000000000
+      internalID: -2153272519000214346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b22c7a56d7c27ac0800000000000000
+      internalID: -3858802207248080199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35daa9ff5a9354960800000000000000
+      internalID: 7585532532496182611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa059e1de72f82b0800000000000000
+      internalID: -5580197513914938626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d25263141a9b990800000000000000
+      internalID: -7369682013761753833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13d7cfd5c4257d30800000000000000
+      internalID: 4428486240870322973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133c86d48415133a0800000000000000
+      internalID: -6687474600690269391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb6b08aa0f089d0800000000000000
+      internalID: -2773952755365659056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 128
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61588803155e1c6d0800000000000000
+      internalID: -2971842142218451690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743ae41d50c4e3b0800000000000000
+      internalID: -5484046940215036816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a49bc84261c07960800000000000000
+      internalID: 7597785199246283936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3030c431d998770800000000000000
+      internalID: 8613588468527989713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8337fe40b12e2440800000000000000
+      internalID: 4912901284630573962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873a7b828b21d880800000000000000
+      internalID: -8588035174733039740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad9f106decad1930800000000000000
+      internalID: 4115635770006412716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491ed824304d0ab0800000000000000
+      internalID: -5040301815189595835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 96
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777ef5099bf60a60800000000000000
+      internalID: 7640070452529756018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_66
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 96
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608ecd4156379ae00800000000000000
+      internalID: 1056502465574004742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 96
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e9ebc7c577d1450800000000000000
+      internalID: 6061131912624119427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c25e1e253c52eb0800000000000000
+      internalID: -4745171871620322264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_69
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 64
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01126e5cad9a58910800000000000000
+      internalID: 1839062779938873616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c7de5c461ab670800000000000000
+      internalID: 8555174959408203792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4370d8a297a9401b0800000000000000
+      internalID: -5691254183893858508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1cd73f75be0b0b0800000000000000
+      internalID: -5714809164153372195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 64
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955af64382c75aac0800000000000000
+      internalID: -3844530194770582183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0bb93773a77800800000000000000
+      internalID: 610136006996987289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_75
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 65
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b24fe691531ff30800000000000000
+      internalID: 4607522277128678223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_76
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 64
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8200609fc2a37330800000000000000
+      internalID: 3707485930620191370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_77
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 64
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fd61413a271110800000000000000
+      internalID: 1231499414148609397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d971556e61052670800000000000000
+      internalID: 8513212244271659473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac5407cb5e24df0800000000000000
+      internalID: -197342836150646038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdc3e78617f8d20800000000000000
+      internalID: 3282967346984836983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 32
+        width: 12
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cef7f320c18e740800000000000000
+      internalID: 5181422167270616159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8631761b098f36b0800000000000000
+      internalID: -5314378354559732083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_83
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43690660695f6b700800000000000000
+      internalID: 555901628727727668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 32
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f127f06458753560800000000000000
+      internalID: 7292867475395781109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 32
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aba89adbde0e50a0800000000000000
+      internalID: -6891054042402214999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 32
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591520d2d190bb4b0800000000000000
+      internalID: -5423731305323802219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209f395875b55760800000000000000
+      internalID: 7446057087425024047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224d0e56ad3f0df0800000000000000
+      internalID: -211882872711331282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b249c73742b0990800000000000000
+      internalID: -7418795882732836090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb38e1463ccfff60800000000000000
+      internalID: 8070393590677257212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_91
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 13
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347ca31cdd189490800000000000000
+      internalID: -7739403128576117710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5d8bdb04cd75d0800000000000000
+      internalID: -3063076616334910659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9afc0d91541bd840800000000000000
+      internalID: 5249812131390225053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58122cab0f4686a30800000000000000
+      internalID: 4208724836865941893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_95
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705ea20983e34aa0800000000000000
+      internalID: -6177844086227185551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_96
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d05ac07920f510800000000000000
+      internalID: 1580809033614414532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_97
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 23
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891f18c6fc7980e0800000000000000
+      internalID: -2267143538043053693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

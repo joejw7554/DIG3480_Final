@@ -23,6 +23,8 @@ public class EnemyController : MonoBehaviour
     public AudioClip playerhitsound;
     public AudioClip fixedsound;
     AudioSource audioSource;
+
+    public GameObject lootdrop;
     
     void Start()
     {
@@ -34,20 +36,6 @@ public class EnemyController : MonoBehaviour
         GameObject rubyControllerObject = GameObject.FindWithTag("RubyController");//
    
         rubyController = rubyControllerObject.GetComponent<RubyController>();
-
-        if (rubyControllerObject != null)//
-            {
-
-            }
-        
-        if (rubyController == null)
-
-        {
-
-    
-
-        }
-    
     }
 
     void Update()
@@ -99,13 +87,12 @@ public class EnemyController : MonoBehaviour
         if (player!=null)
         {
             player.ChangeHealth(-1);
-            PlaySound(playerhitsound);
         }
 
     }
 
     public void Fix()
-    {
+    { 
         broken=false;
         Rigidbody2D.simulated= false;
         animator.SetTrigger("Fixed");
@@ -114,6 +101,7 @@ public class EnemyController : MonoBehaviour
 
         smokeEffect.Stop();
         PlaySound(fixedsound);
+        Instantiate(lootdrop,transform.position, Quaternion.identity);
     
     }
 
